@@ -1,0 +1,32 @@
+html {
+    font-size: 22px;
+    background-color:lightcoral;
+}
+
+body {
+    min-height: 100vh;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+}
+
+th, td, caption {
+    border: 1px solid #333;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: separate;
+    width:90%;
+    padding: 0.5rem;}
+
+    a {
+        color: aliceblue;
+    }
+    
+    a:visited{
+        color: blanchedalmond;
+    }
+
+    a:hover , a:active {
+        color: lightgray;
+    }
