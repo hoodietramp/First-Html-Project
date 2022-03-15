@@ -59,7 +59,7 @@ th, td, caption {
       }
 
       .marquee {
-        position: relative;
+        position: absolute;
         overflow: hidden;
         height: 40px;
         display: flex;
