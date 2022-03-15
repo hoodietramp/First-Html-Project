@@ -1,6 +1,6 @@
 html {
     font-size: 22px;
-    background-color:lightcoral;
+    background-color: rosybrown;
 }
 
 body {
@@ -10,10 +10,10 @@ body {
     padding: 1rem;
     border-left: 1px solid rgb(7, 7, 7);
     border-right: 1px solid rgb(5, 5, 5);
-    viewport-fit: device-width;
+
 }
 
-th, td {
+th, td, tr {
     border: 1px solid #333;
     font-family: 'Courier New', Courier, monospace;
     border-collapse: separate;
@@ -65,5 +65,5 @@ th, td {
         border-collapse: separate;
         width:97%;
         padding: 0.5rem;}
-    
-     
+
+  
