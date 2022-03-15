@@ -57,14 +57,4 @@ th, td, caption {
         aspect-ratio: 16/9;
         viewport-fit: device-width;
       }
-
-      .marquee {
-        position: relative;
-        overflow: hidden;
-        height: 40px;
-        display: flex;
-        justify-content: center;
-        margin: 0 0 40px 0;
-      }
-      
      
